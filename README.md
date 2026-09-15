@@ -5,7 +5,8 @@ Experimental DJI Osmo Nano preview receiver for Windows. The program connects to
 Python 3.10 or newer
 
 Computer connected to the Osmo Nano Wi‑Fi network
-terminal: 
+terminal:
+
 python3 osmo_nano_receiver.py --seconds 99999 --preview
 
 powershell:
