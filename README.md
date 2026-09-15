@@ -6,7 +6,7 @@ Python 3.10 or newer
 
 Computer connected to the Osmo Nano Wi‑Fi network
 terminal: 
-python3 osmo_nano_receiver.py --seconds 300 --preview
+python3 osmo_nano_receiver.py --seconds 99999 --preview
 
 powershell:
 python .\osmo_nano_receiver.py --seconds 99999 --preview
@@ -31,7 +31,7 @@ Eksperymentalny odbiornik podgladu DJI Osmo Nano dla Windows. Program laczy sie 
 ## Uruchomienie
 
 terminal: 
-python3 osmo_nano_receiver.py --seconds 300 --preview
+python3 osmo_nano_receiver.py --seconds 99999 --preview
 
 powershell:
 python .\osmo_nano_receiver.py --seconds 99999 --preview
